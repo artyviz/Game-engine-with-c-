@@ -1,1 +1,16 @@
+<<<<<<< HEAD
 .vs/
+=======
+CMakeLists.txt.user
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Testing
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps
+CMakeUserPresets.json
+>>>>>>> 38516564f06bd99412b29a55cf48e505f7ad8aad
